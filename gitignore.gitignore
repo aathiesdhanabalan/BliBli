@@ -1,0 +1,5 @@
+/*.cmake
+/*.DS_Store/.user/buildetc
+/*.idea
+/src/test
+/*/test-classes
